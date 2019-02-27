@@ -1,6 +1,3 @@
-# aws
-AWS programmatic access
-
 AWS CLI installation on Ubuntu
 ----------------------------
 
@@ -18,3 +15,13 @@ AWS CLI installation on Ubuntu
     -rw------- 1 sanoop sanoop 116 Feb 27 15:05 credentials  
 7) Get IAM account summary to confirm aws cli is working fine.  
     aws iam get-account-summary  
+
+boto3 installation 
+------------------
+
+boto3 is the sdk for python in Amazon Web Services
+
+pip install boto3 
+    OR
+pip3 install boto3
+
