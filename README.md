@@ -1,7 +1,7 @@
 # aws
 AWS programmatic access
 
-AWS CLI installation in Ubuntu
+AWS CLI installation on Ubuntu
 ----------------------------
 
 1) Make sure pip package is installed. (pip or pip3 if python3 is used)
